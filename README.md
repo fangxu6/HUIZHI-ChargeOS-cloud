@@ -1,12 +1,13 @@
 
 
-
-![输入图片说明](images/300.jpg)
-
-
-
-
 [🔥 Github的代码优先于Gitee   https://github.com/roinli/huige-ChargeOS-cloud](https://github.com/roinli/huige-ChargeOS-cloud)
+
+
+原地址不明原因被禁用，该库为镜像项目
+
+## 开源版本一定不会很完美，不过会一直持续更新，如果遇到任何问题请提issue或者加群沟通解决，谢谢。
+
+
 
 
 当前版本：V2.5.2
@@ -17,10 +18,10 @@
    
 [🔥 充电小程序源码](https://github.com/roinli/huige-ChargeOS-cloud/tree/master/jingli-inter) 
 
-
+[🔥 更新日志](https://blog.csdn.net/roinli/category_12818719.html?spm=1001.2014.3001.5482) 
 <div align="center">
 
-##   慧知开源充电桩平台
+##   （慧哥）慧知开源充电桩平台
 
 </div>
 
@@ -38,17 +39,17 @@
 
 #### 
 
-<div align="center">
+<div >
 
 [官网](http://wenhui.huizhidata.com/) |
-[四轮在线体验](http://new-four-admin.nxptdn.com:9251/) |
-[二轮在线体验](http://39.98.222.58:9252/#/login?redirect=%2Fhome) |
-[帮助文档](http://wenhui..com/page/link) |
+[四轮在线体验](http://hzqc-pc.huizhidata.com/) |
+[二轮在线体验](http://hzdc-pc.huizhidata.com/) |
+[帮助文档](http://wenhui.huizhidata.com/article/70) |
 
 [comment]: <> ([宽屏预览]&#40;https://github.com/roinli/huige-ChargeOS-cloud/blob/master/README.md&#41;)
 
 </div>
-<div align="center" >
+<div align="left" >
 <a href="https://github.com/roinli/huige-ChargeOS-cloud/blob/master/README.md">宽屏预览</a>
 </div>
 
@@ -64,31 +65,34 @@
 ### 📋 更新说明
 
 ```
-v5.2.0 更新说明【更新时间2023年11月22日】
-1、全面拥抱微服务| || 支持多租户 |
+V2.5.3 更新说明
+1、全面拥抱微服务| 支持多租户 |
 2、全面拥抱引入时序数据库 
-3、支持互联互通 
+3、支持中电联互联互通 
 4、支持多租户 
+5、支持分账功能 
+6、支持尖峰平谷
+7、支持设备管理
+8、支持设备端口
+9、支持操作日志
 
-v5.1.0 更新说明【更新时间2023年07月10日】
-1、支持分账功能 
-2、支持尖峰平谷
-3、支持提现功能
-4、设备监控预警
+
+......
+
 ```
 ### 用心做开源，我们也很需要你的鼓励！右上角Star🌟，等你点亮！
 
 ---
 
 ### 📝 介绍
-慧知充电桩开源系统是一款全开源可商用的系统，前后端分离开发，全部100%开源，在小程序、公众号、H5、APP、PC端都能用，使用方便，二开方便！安装使用也很简单！使用文档、接口文档、数据字典、二开文档、视频教程，各种资料应有尽有，就算你是技术小白，也能轻松上手！
+慧知开源充电桩平台是一款全开源可商用的系统，前后端分离开发，在小程序、公众号、H5、APP、PC端都能用，使用方便，二开方便！安装使用也很简单！使用文档、接口文档、数据字典、二开文档，就算你是技术小白，也能轻松上手！
 
-欢迎大家来体验、来提建议，来一起让充电桩开源物联网系统更强大，让更多开发者受益！虽然是开源，但我们该有的功能全都有！
+欢迎大家来体验、来提建议，来一起让 慧知开源充电桩平台 更强大，让更多开发者受益！虽然是开源，但我们该有的功能全都有！
 
    
 
 
-#### 🖥 加群+v:18601938676（如果您也对开源感兴趣，欢迎加入群），开源、共享、共赢永远是主旋律。
+#### 🖥 加群+v:18601938676（如果您也对开源感兴趣，欢迎加入群,加群请注明原因），开源、共享、共赢永远是主旋律。
 
 
 ![输入图片说明](images/UI界面/我的.png)
@@ -165,9 +169,8 @@ Redis
 
 ###  📱 系统演示
 
-![输入图片说明](images/二维码以及小程序二维码1.jpg)
 
-四轮管理后台： http://new-four-admin.nxptdn.com:9251/
+演示汽车充电管理后台： http://hzqc-pc.huizhidata.com/
 
 账号：demo1010 密码：admin123456
 
@@ -175,7 +178,7 @@ Redis
 
 ![输入图片说明](images/二维码以及小程序二维码1.jpg)
 
-二轮管理后台：http://39.98.222.58:9252/#/login?redirect=%2Fhome
+演示单车充电管理后台：http://hzqc-pc.huizhidata.com/
 
 账号：demo1 密码：admin123456
 
