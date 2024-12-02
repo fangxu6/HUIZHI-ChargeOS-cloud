@@ -18,7 +18,7 @@
    
 [🔥 充电小程序源码](https://github.com/roinli/huige-ChargeOS-cloud/tree/master/jingli-inter) 
 
-[🔥 更新日志](https://blog.csdn.net/roinli/category_12818719.html?spm=1001.2014.3001.5482) 
+[🔥 更新日志](https://blog.csdn.net/roinli/category_12764672.html?spm=1001.2014.3001.5482) 
 <div align="center">
 
 ##   （慧哥）慧知开源充电桩平台
