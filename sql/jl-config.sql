@@ -13,6 +13,9 @@
 
  Date: 31/12/2023 00:52:58
 */
+create database `ry-config` default character set utf8mb4 collate utf8mb4_general_ci;
+
+use `ry-config`;
 
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;

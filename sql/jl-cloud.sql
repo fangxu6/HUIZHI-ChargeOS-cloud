@@ -13,7 +13,10 @@
 
  Date: 31/12/2023 00:48:44
 */
+-- tms 单体模式的数据库【可选】
+create database `jl-cloud` default character set utf8mb4 collate utf8mb4_general_ci;
 
+use `jl-cloud`;
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
@@ -6792,7 +6795,7 @@ CREATE TABLE `t_user`  (
   UNIQUE INDEX `un_weixin_openid`(`weixin_openid`) USING BTREE,
   UNIQUE INDEX `un_mobile`(`MOBILE`) USING BTREE,
   INDEX `FK_T_USER_ROLE_ID`(`ROLE_ID`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 314 CHARACTER SET = utf8 COLLATE = utf8_general_ci COMMENT = '用户表' ROW_FORMAT = Compact;
+) ENGINE = InnoDB AUTO_INCREMENT = 314 CHARACTER SET = utf8 COLLATE = utf8_general_ci COMMENT = '用户表' ROW_FORMAT = DYNAMIC;
 
 -- ----------------------------
 -- Records of t_user

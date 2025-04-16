@@ -18,7 +18,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @EnableRyFeignClients
 @SpringBootApplication
 @EnableWebMvc
-@MapperScan("com/jingli/admin/mapper")
+@MapperScan("com.jingli.admin.mapper")
 public class JingliAdminApplication {
     public static void main(String[] args) {
         SpringApplication.run(JingliAdminApplication.class, args);
